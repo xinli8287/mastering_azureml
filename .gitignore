@@ -1,0 +1,11 @@
+.azureml/
+.config/
+.ipynb_checkpoints/
+.pytest_cache/
+outputs/
+logs/
+actions/
+temp_dataset_from_pandas/
+Pipfile
+Pipfile.lock
+*.bin
